@@ -42,8 +42,8 @@ The dataset includes missing values, duplicates, and inconsistencies, which were
 * Implement upselling and cross-selling strategies to increase average order value
 
 📊 Dashboard Preview
-￼Dashboard.png
- 
+![Dashboard](Dashboard.png)
+
 
 🚀 Conclusion
 This project demonstrates how raw data can be transformed into actionable business insights using SQL and Power BI. It highlights the importance of data-driven decision-making in improving business performance.
